@@ -187,6 +187,7 @@ public class GameMaster : MonoBehaviour
         StartCoroutine(CO_PassPlayers(GetNextPlayer(player)));
     }
 
+    // USE CASE #7.b and #9.b
     // Method to give every card on ground to the given player
     private void ClearGround(Player player)
     {
@@ -254,6 +255,7 @@ public class GameMaster : MonoBehaviour
         
     }
 
+    // USE CASE #11.a
     // Method to handle the ending
     // Determines who wins and activates the endGaöeScreem
     private void HandleEndgame()

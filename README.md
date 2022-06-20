@@ -8,7 +8,7 @@ Please use 1080x1920 portrait aspect ratio to run the game.
 * Player : MonoBehaviour
 * Human : Player
 * AI : Player
--> In all documentation, "GM" refers to the GameMaster object, "Player" refers to Human and AI, "Human" refers to the object the user controls, and "AI" refers to the object the computer controls, "User" refers to the real-world person playing the game.
+* In all documentation, "GM" refers to the GameMaster object, "Player" refers to Human and AI, "Human" refers to the object the user controls, and "AI" refers to the object the computer controls, "User" refers to the real-world person playing the game.
 
 ## Use Case
 ### Basic Flow:

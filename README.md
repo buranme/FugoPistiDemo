@@ -1,4 +1,4 @@
-# Libra Grid Demo
+# Fugo Pişti Demo
 This is a demo Unity project made for Fugo Games.
 Please use 1080x1920 portrait aspect ratio to run the game.
 

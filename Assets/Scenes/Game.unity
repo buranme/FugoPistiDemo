@@ -1084,10 +1084,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   human: {fileID: 1499834475}
   ai: {fileID: 1972802194}
-  deck: {fileID: 1732732772}
-  ground: {fileID: 1345179267}
   cardPrefab: {fileID: 3246184167556480307, guid: 99104ab1b90dffd4b9849d277df37220, type: 3}
   endGameScreen: {fileID: 1707461294}
+  ground: {fileID: 1345179267}
+  deck: {fileID: 1732732772}
   deckCount: {fileID: 1954268653}
   cardsOnGround: {fileID: 1082505916}
   cardsOnWinnings: {fileID: 596637455}
@@ -1377,7 +1377,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 600, y: 277.9314}
+  m_SizeDelta: {x: 600, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1707461297
 CanvasRenderer:
